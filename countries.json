@@ -39,19 +39,6 @@
 		"continent": "South America"
 	},
 	{
-		"name": "Chile",
-		"dial_code": "+56",
-		"country_code": "CL",
-		"emoji": "🇨🇱",
-		"emoji_unicode": "U+1F1E8 U+1F1F1",
-		"emoji_svg_url": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CL.svg",
-		"timezones": ["America/Santiago"],
-		"latlng": [-30, -71],
-		"capital": "Santiago",
-		"currency_code": "CLP",
-		"continent": "South America"
-	},
-	{
 		"name": "China",
 		"dial_code": "+86",
 		"country_code": "CN",
